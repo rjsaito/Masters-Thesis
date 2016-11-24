@@ -1,0 +1,5 @@
+
+
+Blocking Variables (Brand, Product Category)
+Clustering methods - agglomerative
+unsupervised (complete, single, average)
