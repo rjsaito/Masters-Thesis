@@ -1,6 +1,0 @@
-\contentsline {section}{Introduction}{3}
-\contentsline {section}{Background}{3}
-\contentsline {subsection}{Definitions}{3}
-\contentsline {subsection}{Record Linkage in Consumer Product Data}{3}
-\contentsline {section}{Methods}{4}
-\contentsline {subsection}{Model}{4}
