@@ -131,5 +131,3 @@ lci_vec <- function(strings, type = "item"){
 #s <- c("abcd red","abcd","abcd black","abcd redblue")
 #lci_vec(s)
 #--------------------------------------------------------------------------------------------------------------------
-
->>>>>>> origin/master
