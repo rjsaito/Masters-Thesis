@@ -2,7 +2,7 @@
 pacman::p_load(dplyr, tidyr, foreach, qualV, stringdist, dbscan, tm, foreach)
 
 #source some functions
-source("C:/Users/rjsai/Dropbox/UMN Courses/Plan B/src_func.R")
+source("https://raw.githubusercontent.com/rjsaito/Masters-Thesis/master/src_func.R")
 
 #load data
 sku <- read.csv("C:/Users/rjsai/Dropbox/UMN Courses/Plan B/data/sku_list.csv", stringsAsFactors = F)
