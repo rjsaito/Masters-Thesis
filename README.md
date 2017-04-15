@@ -2,7 +2,7 @@
 
 ## Preface
 
-This academic paper is submitted for the degree of Master of Science at the University of Minnesota - Twin Cities. The study was conducted under the supervision of Professor Xiaoou Li in the Department of Statistics, University of Minnesota, during Fall of 2016.
+This academic paper was submitted and approved for the degree of Master of Science at the University of Minnesota - Twin Cities. The study was conducted under the supervision of Professor Xiaoou Li in the Department of Statistics, University of Minnesota, during Fall of 2016.
 
 ## Abstract
 
